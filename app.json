@@ -5,6 +5,14 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "unidos.pf"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0356c49e-b421-4f27-958c-8decd14ec5a3"
+      }
+    }
   }
 }
