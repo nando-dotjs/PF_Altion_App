@@ -1,13 +1,21 @@
 {
   "expo": {
-    "name": "my-app",
+    "name": "UPC",
     "slug": "my-app",
     "version": "1.0.0",
+    "userInterfaceStyle": "light",
+    "icon": "./logoUC.png",
+    "splash": {
+      "image": "./logoUC.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
     "assetBundlePatterns": [
       "**/*"
     ],
     "android": {
-      "package": "unidos.pf"
+      "package": "unidos.pf",
+      "icon": "./logoUC.png"
     },
     "extra": {
       "eas": {
