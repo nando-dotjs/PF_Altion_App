@@ -1,4 +1,4 @@
-package com.myapp;
+package com.unidos.clasificacion;
 
 import android.os.Build;
 import android.os.Bundle;

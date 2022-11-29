@@ -2,7 +2,7 @@
   "expo": {
     "name": "UPC",
     "slug": "my-app",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "userInterfaceStyle": "light",
     "icon": "./logoUC.png",
     "splash": {
@@ -15,6 +15,7 @@
     ],
     "android": {
       "package": "unidos.pf",
+      "versionCode": 2,
       "icon": "./logoUC.png"
     },
     "extra": {
